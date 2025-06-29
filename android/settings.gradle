@@ -31,7 +31,7 @@ extensions.configure(com.facebook.react.ReactSettingsExtension) { ex ->
 }
 expoAutolinking.useExpoModules()
 
-rootProject.name = 'bareworkflow2'
+rootProject.name = 'bare-workflow2'
 
 expoAutolinking.useExpoVersionCatalog()
 

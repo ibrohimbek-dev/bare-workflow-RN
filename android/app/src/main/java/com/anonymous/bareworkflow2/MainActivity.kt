@@ -1,4 +1,4 @@
-package com.bareworkflow2
+package com.anonymous.bareworkflow2
 
 import android.os.Build
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.bareworkflow2
+package com.anonymous.bareworkflow2
 
 import android.app.Application
 import android.content.res.Configuration
